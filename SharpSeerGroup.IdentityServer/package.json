@@ -1,0 +1,17 @@
+{
+  "name": "sharpseergroup.identityserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aaron@sharpseergroup.com",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.7.1"
+  },
+  "devDependencies": {
+    "sass-loader": "^7.0.3"
+  }
+}
